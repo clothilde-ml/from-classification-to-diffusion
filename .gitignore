@@ -1,0 +1,23 @@
+# Environnement virtuel
+env/
+
+# Données
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Modèles et checkpoints 
+model_checkpoints/
+*.pt
+*.safetensors
+
+# Système
+.DS_Store
+Thumbs.db
+
